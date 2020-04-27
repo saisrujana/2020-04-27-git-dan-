@@ -7,4 +7,4 @@
 - log: look at all the commit hostory you've been doing
    - `log --oneline`: simple oneline logview
 - diff: look at differences between current state and what git knows
-
+--So mant to be changed
